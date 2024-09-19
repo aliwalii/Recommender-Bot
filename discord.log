@@ -1,0 +1,13 @@
+[2024-08-28 14:44:59] [INFO    ] discord_bot: Logged in as movby
+[2024-08-28 14:44:59] [INFO    ] discord_bot: discord.py API version: 2.3.2
+[2024-08-28 14:44:59] [INFO    ] discord_bot: Python version: 3.12.0
+[2024-08-28 14:44:59] [INFO    ] discord_bot: Running on: Windows 11 (nt)
+[2024-08-28 14:44:59] [INFO    ] discord_bot: -------------------
+[2024-08-28 14:45:00] [INFO    ] discord_bot: Loaded extension 'fun'
+[2024-08-28 14:45:00] [INFO    ] discord_bot: Loaded extension 'general'
+[2024-08-28 14:45:00] [INFO    ] discord_bot: Loaded extension 'moderation'
+[2024-08-28 14:45:00] [INFO    ] discord_bot: Loaded extension 'owner'
+[2024-08-28 14:45:02] [INFO    ] discord_bot: Loaded extension 'recommend'
+[2024-08-28 14:45:09] [INFO    ] discord_bot: Executed help command in Proj Recommender Bot (ID: 1275470708343963790) by aliwalii. (ID: 786015474617810964)
+[2024-08-28 14:45:33] [INFO    ] discord_bot: Executed recommend command in Proj Recommender Bot (ID: 1275470708343963790) by aliwalii. (ID: 786015474617810964)
+[2024-08-28 14:45:39] [INFO    ] discord_bot: Executed recommend command in Proj Recommender Bot (ID: 1275470708343963790) by aliwalii. (ID: 786015474617810964)
